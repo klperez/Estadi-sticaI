@@ -853,6 +853,8 @@ $$
 
 ## Capítulo I - Distribuciones de frecuencia
 
-_**Ejercicio:**_ Los siguientes datos corresponden al número de goles anotados en 40 partidos de futbol sala en una liga local. 
+_**Ejercicio 1:**_ Los siguientes datos corresponden al número de goles anotados en 40 partidos de futbol sala en una liga local. 
 
 3, 8, 2, 3, 8, 4, 10, 15, 4, 5, 7, 12, 6, 1, 9, 6, 4, 4, 7, 13, 8, 18, 9, 2, 11, 9, 7, 2, 14, 2, 1, 24, 10, 4, 2, 7, 6, 6, 1, 8. Se pide calcular la tabla de frecuencia por intervalos. 
+
+_**Ejercicio 2:**_ Los siguientes datos se refieren al diámetro en pulgadas de un engrane. 6.75, 7.00, 7.00, 6.75, 6.50, 6.50, 7.15, 7.00, 6.50, 6.50, 6.50, 6.25, 6.25, 6.50, 6.65, 7.00, 7.25, 6.70, 6.00, 6.75, 6.00, 6.75, 6.75, 7.10, 7.00, 6.70, 6.50, 6.75, 6.25, 6.65, 6.75, 7.10, 7.25, 6.75, 6.25, 6.25, 7.00, 6.75, 7.00, 7.15 Se pide calcular la tabla de frecuencia por intervalos. 
