@@ -858,3 +858,47 @@ _**Ejercicio 1:**_ Los siguientes datos corresponden al número de goles anotado
 3, 8, 2, 3, 8, 4, 10, 15, 4, 5, 7, 12, 6, 1, 9, 6, 4, 4, 7, 13, 8, 18, 9, 2, 11, 9, 7, 2, 14, 2, 1, 24, 10, 4, 2, 7, 6, 6, 1, 8. Se pide calcular la tabla de frecuencia por intervalos. 
 
 _**Ejercicio 2:**_ Los siguientes datos se refieren al diámetro en pulgadas de un engrane. 6.75, 7.00, 7.00, 6.75, 6.50, 6.50, 7.15, 7.00, 6.50, 6.50, 6.50, 6.25, 6.25, 6.50, 6.65, 7.00, 7.25, 6.70, 6.00, 6.75, 6.00, 6.75, 6.75, 7.10, 7.00, 6.70, 6.50, 6.75, 6.25, 6.65, 6.75, 7.10, 7.25, 6.75, 6.25, 6.25, 7.00, 6.75, 7.00, 7.15 Se pide calcular la tabla de frecuencia por intervalos. 
+
+## Capítulo I - Medidas de Tendencia Central 
+
+Una vez organizados los datos en su correspondiente distribución de frecuencias, se procede a dar una serie de medidas que resuman toda esa información y que, “de alguna manera”, representen a la distribución.
+
+- _**La Media Aritmética:**_  La media es una medida de representación central que se define para cada uno de los tipos de distribución como sigue:
+    * Distribución Tipo I:
+    $$\bar x=\frac{\sum_{i=1}^n x_i}{n}$$
+
+
+---
+
+
+## Capítulo I - Medidas de Tendencia Central
+- Distribución Tipo II:
+    
+    $$\bar x=\frac{\sum_{i=1}^n x_if_i}{n}$$ Donde $x_i$ son los valores que toma la variable y $f_i$ son  las frecuencias absolutas.
+
+- Distribución Tipo III:
+    $$\bar x=\frac{\sum_{i=1}^n x_if_i}{n}$$
+    Donde $x_i$ son las denominadas marcas de clase y $f_i$ son las frecuencias absolutas.
+
+---
+
+
+## Capítulo I - Medidas de Tendencia Central
+
+_**Ejemplo Tipo I:**_ La media de la distribución del ejemplo 1 viene dada por:    
+
+$$\bar x = \frac{(2+3+5+7+7+8+11+14+16+19+7)}{11}=\frac{99}{11}=9$$
+
+_**Ejemplo Tipo II:**_ Para los datos de la tabla ejemplo en la distribución tipo II tenemos que:
+
+$$\bar x = \frac{(2\cdot 4 + 4 \cdot 4 + 5 \cdot 3 + \cdots + 9\cdot 1)}{20}=\frac{105}{20}=25.5$$
+
+_**Ejemplo Tipo III:**_ Para los datos de la tabla del ejemplo 3 en la distribución tipo III tenemos que:
+
+$$\bar x = \frac{(7\cdot 12 + 5 \cdot 17 + 22 \cdot 11 + \cdots + 5\cdot 37)}{40}=\frac{970}{40}=24.5$$
+
+
+
+    
+    
+
